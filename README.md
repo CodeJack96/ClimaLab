@@ -1,0 +1,1 @@
+disposDitivo electrónico educativo para monitoreo ambiental, el cual permite realizar practicas de mediciones y análisis de variables de entorno entorno como la temperatura, humedad, radiación ultravioleta y presión atmosférica<img width="4116" height="81" alt="imagen" src="https://github.com/user-attachments/assets/560a6e72-fb0d-4298-921e-9d0a5364ff06" />
